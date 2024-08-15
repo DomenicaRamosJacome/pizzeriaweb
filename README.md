@@ -10,7 +10,7 @@ Este proyecto es una aplicación web para la compra de pizzas. Los usuarios pued
  **Instalación**:
    - **Clonar el repositorio**:
      ```bash
-     git clone https://github.com/Sergi0014/pizzeriawep.git
+     git clone https://github.com/DomenicaRamosJacome/pizzeriaweb.git
      cd pizzeriawep
      ```
    - **Instalar dependencias**:
